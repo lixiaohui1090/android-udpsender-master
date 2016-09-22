@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_help.png",
+        "source": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_help.png"
+    },
+    {
+        "merged": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_dontsave.png",
+        "source": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_dontsave.png"
+    },
+    {
+        "merged": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_save.png",
+        "source": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_save.png"
+    }
+]

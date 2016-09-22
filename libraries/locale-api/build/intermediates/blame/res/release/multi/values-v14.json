@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\build\\intermediates\\res\\merged\\release\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 75,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 83,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endColumn": 84,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 81,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 82,
+                        "endOffset": 844
+                    }
+                }
+            }
+        ]
+    }
+]

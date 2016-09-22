@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\build\\intermediates\\res\\merged\\release\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 104,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-hdpi\\integers.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 106,
+                        "endOffset": 838
+                    }
+                }
+            }
+        ]
+    }
+]

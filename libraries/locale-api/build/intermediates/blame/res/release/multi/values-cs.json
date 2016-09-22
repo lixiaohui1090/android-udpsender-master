@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\build\\intermediates\\res\\merged\\release\\values-cs\\values-cs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-cs\\strings-cs.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 80,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 84,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-cs\\strings-cs.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 87,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 70,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-cs\\strings-cs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 70,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 68,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-cs\\strings-cs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 68,
+                        "endOffset": 993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 66,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "D:\\android\\android-udpsender-master\\libraries\\locale-api\\res\\values-cs\\strings-cs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 998,
+                        "endColumn": 66,
+                        "endOffset": 1060
+                    }
+                }
+            }
+        ]
+    }
+]
